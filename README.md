@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou Anderson Lima 👋
 
-<!--
-**Andersonlimahw/Andersonlimahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonlimahw@gmail.com)](mailto:andersonlimahw@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anderson-lima-4b572651/)](https://www.linkedin.com/in/anderson-lima-4b572651/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Andersonlimahw)](https://github.com/Andersonlimahw)
 
-Here are some ideas to get you started:
+Sou desenvolvedor Full stack, buscando sempre novos conhecimentos e tecnologias. :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  Atualmente trabalho na **XP Inc**
+- 📚  Colaborando em projetos em Front-end e Back-end
+- 🤝  Posso te ajudar com alguns conceitos de desenvolvimento
+- 💬  Sobre mim: Curto tecnologias, programação, seriados, games, HQ'S e livros
+
+[![Visits Badge](https://badges.pufler.dev/visits/Andersonlimahw/Andersonlimahw?style=for-the-badge)](https://github.com/Andersonlimahw/)
+![Repos Badge](https://badges.pufler.dev/repos/Andersonlimahw?style=for-the-badge)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Andersonlimahw&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonlimahw&layout=compact&theme=gotham)](https://github.com/Andersonlimahw/github-readme-stats)
