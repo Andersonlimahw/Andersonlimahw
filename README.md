@@ -6,7 +6,7 @@
 
 Sou desenvolvedor Full stack, buscando sempre novos conhecimentos e tecnologias. :computer:
 
-- 🔭  Atualmente trabalho na **XP Inc**
+- 🔭  Atualmente trabalho no **Mercado Livre**
 - 📚  Colaborando em projetos em Front-end, Back-end e Mobile
 - 🤝  Posso te ajudar com alguns conceitos de desenvolvimento
 - 💬  Sobre mim: Curto tecnologias, programação, seriados, games, HQ'S e livros
