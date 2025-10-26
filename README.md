@@ -66,7 +66,7 @@ Sou desenvolvedor Full stack, buscando sempre novos conhecimentos e tecnologias.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andersonlimahw&theme=darkhub&no-frame=true&column=7)](https://github.com/Andersonlimahw)
+![trophy](https://github-profile-trophy.vercel.app/?username=Andersonlimahw&theme=gitdimmed&no-frame=false&row=1&column=7)
 
 </div>
 
